@@ -8,3 +8,4 @@
 -    Mail: psgitis@gmail.com
 -    Linkedin: https://www.linkedin.com/in/paramartha-sengupta/
 -    Kaggle: https://www.kaggle.com/paramarthasengupta
+-    HackerRank: https://www.hackerrank.com/paramarthaseng12
