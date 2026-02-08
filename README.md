@@ -1,49 +1,69 @@
 # Portfolio & Projects
 
 Welcome to my GitHub space! Here you'll find projects, research, and contributions spanning data science, applied AI, and productivity innovation.
-- 👋 Hi Viewer, I’m Paramartha
-- 👜 I'm having about ~6 years of experience in the Analytics and Data Science domain.
-- I have also acted as a Data Science Mentor for KaggleX BIPOC Mentorship programme from Dec'2022 to Mar'2023.
-- 📚 Completed my Bachelors degree from National Institue of Technology, Durgapur (2019), and my Masters in Artificial Intelligence & Machine Learning from BITS Pilani (2025)
+
 ---
 
-## 📌 Overview
+## 👋 About Me
 
-As a **Data and Applied Scientist II** at Microsoft, I focus on:
-- Building data-driven solutions at scale
-- Applying machine learning to solve real-world problems
-- Contributing to the OneNote and Copilot Notebooks ecosystem
--     **Product analytics & PLG growth** — defining north‑star metrics, HEART+ aligned scorecards, and application‑level views to track adoption, engagement, and retention.
--     **Experiment design & causal measurement** — framing hypotheses, running metric validations, and quantifying retention lift and WAU impact from feature rollouts and onboarding changes.
--     **Forecasting & scenario modeling** — building weekly WAU/retention projections and initiative‑level what‑if models for MBR planning.
--     **Behavioral & journey analytics** — funnel diagnostics, sequence analysis, and cohort cuts to find drop‑offs and habit drivers.
--     **Metric taxonomy & KPI definitions** — authoring precise event/metric specs (including Copilot‑specific actions) to create a single source of truth across engineering and PM.
--     **LLM/AI applications in product** — intent detection from chat, RAG‑style solutions, and meeting‑intelligence PoCs to unlock agentic experiences.
--     **Dashboards & executive storytelling** — Power BI scorecards and MBR/SLT decks that translate telemetry into crisp, decision‑oriented narratives.
--     **Telemetry & data pipelines** — partnering on event instrumentation, licensing/eligibility logic, and metric publishing from raw streams to production dashboards.
--     **Stakeholder leadership & x‑team alignment** — working with PMs/Eng/LT to prioritize, spec, and operationalize growth workstreams.
--     **Mentoring & team enablement** — defining DS charters, growing the function, and enabling vendor/FTE scale with clear plans and artifacts
-- Research and experimentation in AI and productivity tools
+Hi there, I'm **Paramartha Sengupta**!
+
+- 🔬 **Data & Applied Scientist II** at **Microsoft** — working within the OneNote & Copilot Notebooks ecosystem
+- 💼 ~6 years of experience in **Analytics & Data Science**
+- 🎓 **B.Tech** — National Institute of Technology, Durgapur (2019)
+- 🎓 **M.Tech in AI & Machine Learning** — BITS Pilani (2025)
+- 🌟 **Data Science Mentor** — KaggleX BIPOC Mentorship Programme (Dec 2022 – Mar 2023)
+
+---
+
+## 📌 What I Do
+
+### Product Analytics & Growth
+- **Product Analytics & PLG Growth** — Defining north-star metrics, HEART+ aligned scorecards, and application-level views to track adoption, engagement, and retention.
+- **Experiment Design & Causal Measurement** — Framing hypotheses, running metric validations, and quantifying retention lift and WAU impact from feature rollouts and onboarding changes.
+- **Forecasting & Scenario Modeling** — Building weekly WAU/retention projections and initiative-level what-if models for MBR planning.
+- **Behavioral & Journey Analytics** — Funnel diagnostics, sequence analysis, and cohort cuts to find drop-offs and habit drivers.
+
+### Metrics, Telemetry & Data Infrastructure
+- **Metric Taxonomy & KPI Definitions** — Authoring precise event/metric specs (including Copilot-specific actions) to create a single source of truth across Engineering and PM.
+- **Telemetry & Data Pipelines** — Partnering on event instrumentation, licensing/eligibility logic, and metric publishing from raw streams to production dashboards.
+
+### AI & Machine Learning Applications
+- **LLM/AI Applications in Product** — Intent detection from chat, RAG-style solutions, and meeting-intelligence PoCs to unlock agentic experiences.
+- **Research & Experimentation** — Exploring cutting-edge techniques in AI, NLP, and productivity tools.
+
+### Communication & Leadership
+- **Dashboards & Executive Storytelling** — Power BI scorecards and MBR/SLT decks that translate telemetry into crisp, decision-oriented narratives.
+- **Stakeholder Leadership & Cross-Team Alignment** — Working with PMs, Engineering, and Leadership to prioritize, spec, and operationalize growth workstreams.
+- **Mentoring & Team Enablement** — Defining DS charters, growing the function, and enabling vendor/FTE scale with clear plans and artifacts.
+
 ---
 
 ## 🛠️ Technical Stack
 
 | Category | Technologies |
-|----------|--------------|
-| **Languages** | Python, SQL, R |
-| **ML/AI Frameworks** | scikit-learn, TensorFlow, PyTorch, Azure ML |
-| **Data Tools** | Pandas, NumPy, Spark, Jupyter |
-| **DevOps & Tools** | Git, Docker, CI/CD, MLOps |
+|---|---|
+| **Languages** | Python, SQL, R, KQL (Kusto), U-SQL, DAX, M |
+| **ML & AI** | scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Hugging Face Transformers, LangChain, OpenAI API |
+| **Statistical Methods** | A/B Testing, Causal Inference, Bayesian Methods, Survival Analysis, Time Series Forecasting |
+| **Data Engineering** | Apache Spark, PySpark, Azure Data Factory, Azure Synapse, Cosmos DB, SCOPE |
+| **Cloud & MLOps** | Azure ML, Azure Databricks, MLflow, MLOps |
+| **Visualization & BI** | Power BI, Plotly, Matplotlib, Seaborn, Jupyter Notebooks |
+| **Dev Tools** | Git, VS Code, Azure DevOps, GitHub Actions |
+| **Data Libraries** | Pandas, NumPy, SciPy, Polars, NLTK, spaCy |
 
 ---
 
 ## 🔍 Core Competencies
 
-- **Statistical Analysis & Experimentation**: Design and analysis of experiments, A/B testing, causal inference
-- **Predictive Modeling**: Time series forecasting, classification, clustering, and anomaly detection
-- **Data Engineering**: Data pipelines, ETL processes, and data warehousing
-- **Applied AI/ML**: Model deployment, optimization, and monitoring in production environments
-- **Research & Innovation**: Exploring cutting-edge techniques in AI and data science
+| Competency | Details |
+|---|---|
+| **Statistical Analysis & Experimentation** | Design & analysis of experiments, A/B testing, causal inference, power analysis, sequential testing |
+| **Predictive Modeling** | Time series forecasting, classification, clustering, anomaly detection, propensity modeling |
+| **NLP & LLM Applications** | Intent classification, embeddings, RAG architectures, prompt engineering, fine-tuning |
+| **Data Engineering** | Scalable data pipelines, ETL/ELT processes, data warehousing, telemetry instrumentation |
+| **Applied AI/ML** | Model deployment, optimization, monitoring, and responsible AI practices in production |
+| **Product & Growth Analytics** | Funnel analysis, cohort studies, retention modeling, metric design, north-star frameworks |
 
 ---
 
@@ -54,6 +74,7 @@ As a **Data and Applied Scientist II** at Microsoft, I focus on:
 - Causal inference and experimental design
 - Scalable machine learning systems
 - Responsible AI and ethical considerations
+- Agentic AI workflows and autonomous systems
 
 ---
 
@@ -69,8 +90,12 @@ Feel free to reach out or explore the projects in this space!
 
 ---
 
-**Last Updated**: February 2026
-- 📫 How to Connect with me?
--    Linkedin: https://www.linkedin.com/in/paramartha-sengupta/
--    Kaggle: https://www.kaggle.com/paramarthasengupta
--    HackerRank: https://www.hackerrank.com/paramarthaseng12
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramartha-sengupta/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/paramarthasengupta)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/paramarthaseng12)
+
+---
+
+*Last Updated: February 2026*
