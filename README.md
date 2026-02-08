@@ -21,11 +21,10 @@ As a **Data and Applied Scientist II** at Microsoft, I focus on:
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python, C#, SQL, R |
+| **Languages** | Python, SQL, R |
 | **ML/AI Frameworks** | scikit-learn, TensorFlow, PyTorch, Azure ML |
 | **Data Tools** | Pandas, NumPy, Spark, Jupyter |
-| **Cloud Platforms** | Azure, Azure Synapse, Azure Cognitive Services |
-| **DevOps & Tools** | Git, Docker, CI/CD, Azure DevOps |
+| **DevOps & Tools** | Git, Docker, CI/CD, MLOps |
 
 ---
 
